@@ -1,9 +1,9 @@
 # ys-site-icon-extension
 WordPressのテーマカスタマイザー項目「サイトアイコン」を拡張するプラグイン
 
-WordPress 4.3から追加された「サイトアイコン」で出力されるlinkタグをファビコンとapple touch iconで分けて指定できるようにするプラグイン
+WordPress 4.3から追加された「サイトアイコン」で出力されるlinkタグをファビコンとapple touch iconで分けて指定できるようになります。
 
-## テーマカスタマイザー設定項目
+## テーマカスタマイザー設定項目で出力されるHTMLタグ（link）
 
 サイトアイコン（WordPress標準設定項目）
 ：ファビコン
